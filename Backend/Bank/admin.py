@@ -1,6 +1,5 @@
 from django.contrib import admin
-from Bank.Accounts.models import Account
-from Bank.Product.models import Product
+from Bank.models import Account, Product
 
 # class TodoAdmin(admin.ModelAdmin):
 #     list_display = ('title', 'description', 'completed') 
