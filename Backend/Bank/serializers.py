@@ -1,6 +1,6 @@
 from rest_framework import serializers
-from Bank.Accounts.models import Account
-from Bank.Product.models import Product
+from Bank.models import Account
+from Bank.models import Product
 
 
 class AccountSerializer(serializers.HyperlinkedModelSerializer):
