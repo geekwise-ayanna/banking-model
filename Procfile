@@ -1,0 +1,1 @@
+cd Backend && python manage.py migrate && gunicorn Bank.wsgi
