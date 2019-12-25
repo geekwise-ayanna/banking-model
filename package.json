@@ -1,17 +1,9 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.4.0",
-    "@testing-library/user-event": "^7.2.1",
-    "axios": "^0.19.0",
-    "bootstrap": "^4.4.1",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "react-scripts": "3.3.0",
-    "reactstrap": "^8.2.0"
+    
   },
   "scripts": {
     "start": "react-scripts start",
@@ -33,5 +25,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "react frontend for banking app",
+  "main": "index.js",
+  "repository": "git@github.com:geekwise-ayanna/staging-frontend",
+  "author": "geekwise-ayanna <geekwise.ayanna.bs@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "frontend",
+    "frontend.json"
+  ]
 }
