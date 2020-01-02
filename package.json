@@ -2,9 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": false,
-  "dependencies": {
-    
-  },
+  "dependencies": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
